@@ -1,0 +1,33 @@
+
+#upload-icon {
+  text-align: center;
+  font-size: 8em;
+}
+
+#upload-desc {
+  text-align: center;
+}
+
+#table-container > tr {
+  /*opacity: 0;*/
+}
+
+#upload-container {
+  border:4px dotted #0B85A1;
+}
+
+.span-highlight {
+  background-color: rgba(255, 233, 62, 0);
+}
+
+td span {
+  line-height: 20px;
+}
+
+/*.span-highlight {
+  background-image: linear-gradient(to right, rgba(255,0,0,0) 50%, #00dddd 50%);
+  background-position: -90% 0;
+  background-size: 200% auto;
+  text-decoration: none;
+  transition: background-position 5.5s ease-out;
+}*/
